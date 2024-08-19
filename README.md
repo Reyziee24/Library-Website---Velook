@@ -41,7 +41,7 @@ Velook - Library Website dibuat oleh :
 **Clone Repository**
 
 ```bash
-git clone https://github.com/musyahya/laravel8_perpustakaan.git
+git clone https://github.com/Reyziee24/Library-Website---Velook.git
 ```
 
 **Download zip**
