@@ -1,11 +1,10 @@
-<h1 align="center">Laravel 8 Perpustakaan</h1>
+<h1 align="center">Velook - Library Website</h1>
 
 ## Author
 
-Laravel 8 pepustakaan dibuat oleh :
+Velook - Library Website dibuat oleh :
 
-- Github : <a href="https://github.com/musyahya"> Musyahya </a>
-- Youtube : <a href="https://www.youtube.com/channel/UC1iCvpMssrHnUsWKEe2cOag"> Musyahya </a>
+- Github : <a href="https://github.com/Reyziee24"> Reyziee </a>
 
 ## Fitur 
 
@@ -13,7 +12,6 @@ Laravel 8 pepustakaan dibuat oleh :
 - CRUD Kategori
 - CRUD Buku
 - CRUD Penerbit
-- CRUD Rak
 - Melakukan peminjaman buku
 - Menampilkan chart
 - Mengimplementasikan livewire
@@ -73,14 +71,14 @@ copy .env.example menjadi .env
 ## Buat database di localhost 
 
 ```bash
-nama database : perpustakaan_laravel_8
+nama database : velooklibrary
 ```
 
 ## Setting database di .env
 
 ```bash
 DB_PORT=3306
-DB_DATABASE=perpustakaan_laravel_8
+DB_DATABASE=velooklibrary
 DB_USERNAME=root
 DB_PASSWORD=
 ```
@@ -103,15 +101,6 @@ php artisan migrate --seed
 php artisan storage:link
 ```
 
-## Download Asset Buku
-
-```bash
-https://drive.google.com/drive/folders/1bCEhRhFVnTiRG9YhibUz2lLwFC6SIFNW?usp=sharing
-```
-
-## Buat Folder buku di public dan copy asetnya
-
-
 ## Jalankan Serve
 
 ```bash
@@ -125,4 +114,4 @@ Jangan ragu untuk memeriksa halaman masalah jika Anda ingin berkontribusi. **Ber
 
 ## License
 
-- Copyright © 2021 Musyahya.
+- Copyright © 2024 Reyziee.
